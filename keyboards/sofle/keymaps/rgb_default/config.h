@@ -6,8 +6,8 @@
  * are different! Therefore we need to specify what
  * side we want to compile here
  */
-#define IS_LEFT                                     // We want to build the LEFT side
-// #define IS_RIGHT                                    // We want to build the RIGHT side
+// #define IS_LEFT                                     // We want to build the LEFT side
+#define IS_RIGHT                                    // We want to build the RIGHT side
 
 #define MASTER_LEFT                                 // Left is the master
 
