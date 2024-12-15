@@ -25,9 +25,3 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
-[submodule "keyboards/sofle/keyboards/sofle/keymaps/edder"]
-	path = keyboards/sofle/keyboards/sofle/keymaps/edder
-	url = https://github.com/edderrd/qmk-sofle-rgb-v2-keymap
-[submodule "keyboards/sofle/keymaps/edder"]
-	path = keyboards/sofle/keymaps/edder
-	url = https://github.com/edderrd/qmk-sofle-rgb-v2-keymap
